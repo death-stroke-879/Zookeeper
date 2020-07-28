@@ -1,4 +1,5 @@
 # Zookeeper
+![](Zookeeper.gif)
 
 About
 
